@@ -13,10 +13,17 @@
 // unknownSample()
 
 //  04.関数の型定義
-import { logMessage } from './function/basic'
-import { isUserSignedIn, isUserSignedIn2, sumProductsPrice } from './function/params'
-logMessage('Hello World!')
-isUserSignedIn('abca', 'keito')
-isUserSignedIn2('abc')
-const sum = sumProductsPrice(100, 200, 300, 400, 500)
-console.log('Function params5:', sum)
+// import { logMessage } from './function/basic'
+// import { isUserSignedIn, isUserSignedIn2, sumProductsPrice } from './function/params'
+// logMessage('Hello World!')
+// isUserSignedIn('abca', 'keito')
+// isUserSignedIn2('abc')
+// const sum = sumProductsPrice(100, 200, 300, 400, 500)
+// console.log('Function params5:', sum)
+
+// 05.オブジェクトの型定義
+import objectSample from './object/object'
+import typeAliasSample from './object/alias'
+
+objectSample()
+typeAliasSample()
