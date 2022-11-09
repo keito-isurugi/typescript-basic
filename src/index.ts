@@ -29,7 +29,13 @@
 // typeAliasSample()
 
 // 06.配列の型定義
-import arraySample from './array/array'
-import tupleSmaple from './array/tuple'
-arraySample()
-tupleSmaple()
+// import arraySample from './array/array'
+// import tupleSmaple from './array/tuple'
+// arraySample()
+// tupleSmaple()
+
+// 07.ジェネリック型
+import genericsBasicSmaple from './generics/basic'
+import genericsAdvancedSample from './generics/advanced'
+genericsBasicSmaple()
+genericsAdvancedSample()
