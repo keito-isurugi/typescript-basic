@@ -39,3 +39,5 @@ import genericsBasicSmaple from './generics/basic'
 import genericsAdvancedSample from './generics/advanced'
 genericsBasicSmaple()
 genericsAdvancedSample()
+
+// 08.オブジェクト指向開発
