@@ -35,7 +35,14 @@
 // tupleSmaple()
 
 // 07.ジェネリック型
-import genericsBasicSmaple from './generics/basic'
-import genericsAdvancedSample from './generics/advanced'
-genericsBasicSmaple()
-genericsAdvancedSample()
+// import genericsBasicSmaple from './generics/basic'
+// import genericsAdvancedSample from './generics/advanced'
+// genericsBasicSmaple()
+// genericsAdvancedSample()
+
+// import callbackSample from './asynchronous/callback';
+// callbackSample()
+// import promiseSample from './asynchronous/promise';
+// promiseSample()
+import asyncAwaitSample from './asynchronous/asyncAwait'
+asyncAwaitSample()
